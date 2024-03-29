@@ -1,6 +1,19 @@
 # Twitter-Sentiment-Analysis-using-Python-and-NLTK
 
-This code performs sentiment analysis on tweets related to the movie "Avengers: Endgame" using the Twitter API, NLTK, and TextBlob libraries. Here's a breakdown of the main steps:
+Sentiment analysis, a powerful branch of NLP, aims to automatically understand the emotional tone (positive, negative, or neutral) within a piece of text. It's like having a computer program that can gauge public opinion by analyzing the emotions expressed in written content.
+
+In this project, sentiment analysis is used to analyze tweets about the movie "Avengers: Endgame." By deciphering the sentiment (polarity) and the level of opinion (subjectivity) within these tweets, we can gain valuable insights into public perception of the movie and its cast members.
+
+**Polarity:** This refers to the positive, negative, or neutral sentiment expressed in a text. A positive polarity score indicates a favorable opinion, while a negative score suggests an unfavorable one.
+
+**Subjectivity:** This measures the extent to which a text expresses an opinion or personal view. A high subjectivity score indicates a strong opinion, while a low score suggests a more factual statement.
+
+# Project Goal:
+1. Analyze sentiment of tweets related to "Avengers: Endgame"
+2. Understand public perception of the movie and its cast members
+
+# Steps:
+The code performs sentiment analysis on tweets related to the movie "Avengers: Endgame" using the Twitter API, NLTK, and TextBlob libraries. Here's a breakdown of the main steps:
 
 1. **Authenticate to Twitter API**: The code authenticates to the Twitter API using the provided API keys and tokens.
 
@@ -21,3 +34,5 @@ This code performs sentiment analysis on tweets related to the movie "Avengers: 
 The code includes detailed comments explaining each step and the functionality of the helper functions used throughout the analysis.
 
 To use this code, you'll need to provide your Twitter API credentials (consumer key, consumer secret, access token, and access token secret) and ensure that you have the required libraries installed (tweepy, pandas, matplotlib, nltk, textblob, and wordcloud).
+
+
