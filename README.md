@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis-using-Python-and-NLTK
 
 Sentiment analysis, a powerful branch of NLP, aims to automatically understand the emotional tone (positive, negative, or neutral) within a piece of text. It's like having a computer program that can gauge public opinion by analyzing the emotions expressed in written content.
-
+<p><img src = "79592twitter.jpg"></p>
 In this project, sentiment analysis is used to analyze tweets about the movie "Avengers: Endgame." By deciphering the sentiment (polarity) and the level of opinion (subjectivity) within these tweets, we can gain valuable insights into public perception of the movie and its cast members.
 
 **Polarity:** This refers to the positive, negative, or neutral sentiment expressed in a text. A positive polarity score indicates a favorable opinion, while a negative score suggests an unfavorable one.
