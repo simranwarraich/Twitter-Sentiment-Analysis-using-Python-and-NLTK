@@ -12,6 +12,11 @@ In this project, sentiment analysis is used to analyze tweets about the movie "A
 1. Analyze sentiment of tweets related to "Avengers: Endgame"
 2. Understand public perception of the movie and its cast members
 
+# Project Structure:
+The project consists of the following files:
+1. README.md: This file (you are reading it now!) provides an overview of the project.
+2. [twitter-sentiment-analysis-using-python-and-nltk.ipynb](twitter-sentiment-analysis-using-python-and-nltk.ipynb):Contains the main script for exploreing public sentiment towards the movie "Avengers: Endgame" using Python libraries for NLP (Natural Language Processing). It leverages the Twitter API to collect tweets and performs sentiment analysis with NLTK and TextBlob..
+   
 # Steps:
 The code performs sentiment analysis on tweets related to the movie "Avengers: Endgame" using the Twitter API, NLTK, and TextBlob libraries. Here's a breakdown of the main steps:
 
@@ -34,5 +39,9 @@ The code performs sentiment analysis on tweets related to the movie "Avengers: E
 The code includes detailed comments explaining each step and the functionality of the helper functions used throughout the analysis.
 
 To use this code, you'll need to provide your Twitter API credentials (consumer key, consumer secret, access token, and access token secret) and ensure that you have the required libraries installed (tweepy, pandas, matplotlib, nltk, textblob, and wordcloud).
+
+# Who,When,Why?
+**Author:** Simran Warraich
+**Version:** 1
 
 
